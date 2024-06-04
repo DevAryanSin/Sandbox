@@ -17,7 +17,7 @@ int main()
 
 // or
 
-// This one counts to ten and then prints statement
+// This one counts to 10 and then prints statement
 #include <iostream>
 
 using namespace std;
@@ -37,6 +37,7 @@ int main()
 #include <iostream>
 using namespace std;
 
+// This one countsdown from 10 to 0 then prints statement
 int main()
 {
     for(int i = 10; i >=0 ; i-- ){
